@@ -134,6 +134,8 @@ p {
   }
   .about-pictures {
     height: 80%;
+    display: block;
+    margin: 0 auto;
   }
 }
 @media (min-width: 800px) {
