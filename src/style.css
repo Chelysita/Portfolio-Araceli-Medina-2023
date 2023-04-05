@@ -58,12 +58,6 @@ h2 {
   background-color: #d2f5f1;
 }
 
-@media all and (max-width: 30em) {
-  .mainPageLinks {
-    display: block;
-    margin: 0.2em auto;
-  }
-}
 .about-page {
   background-color: #ffffff;
   padding: 2em;
