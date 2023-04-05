@@ -136,6 +136,7 @@ p {
     justify-content: space-evenly;
     display: block;
     margin: 0 auto;
+    width: 50%;
   }
 }
 @media (min-width: 800px) {
