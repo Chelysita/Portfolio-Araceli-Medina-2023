@@ -133,7 +133,7 @@ p {
     font-size: 35px;
   }
   .about-pictures {
-    height: 50%;
+    justify-content: space-evenly;
     display: block;
     margin: 0 auto;
   }
@@ -142,6 +142,6 @@ p {
   .about {
     display: flex;
     justify-content: space-between;
-    margin: auto;
+    margin: 0 auto;
   }
 }
