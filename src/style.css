@@ -82,11 +82,11 @@ h2 {
 .about-text p {
   margin: 10px;
   background: #f5f2fe;
+  text-align: justify;
 }
 p {
   display: block;
   padding: 20px;
-  text-align: justify;
 }
 .about-pictures {
   height: 100%;
