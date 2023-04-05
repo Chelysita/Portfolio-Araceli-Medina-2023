@@ -77,7 +77,6 @@ h2 {
   color: #ff4fa7;
   -webkit-text-stroke: 0.5px black;
   font-size: 26px;
-  margin-top: 20px;
 }
 
 .about-text p {
@@ -87,6 +86,7 @@ h2 {
 p {
   display: block;
   padding: 20px;
+  text-align: justify;
 }
 .about-pictures {
   height: 100%;
@@ -106,5 +106,30 @@ p {
     width: 50%;
     display: block;
     margin: 0 auto;
+  }
+}
+.social-icons {
+  font-size: 50px;
+  padding: 30px;
+  background: #f7c3c6;
+  border-radius: 100%;
+}
+.social-links {
+  text-decoration: none;
+  color: black;
+}
+.social-links:hover {
+  color: #ff4fa7;
+}
+.contact-section {
+  margin: 30px;
+  justify-content: space-evenly;
+}
+@media (max-width: 800px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 35px;
   }
 }
