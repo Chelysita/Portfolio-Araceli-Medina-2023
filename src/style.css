@@ -133,7 +133,7 @@ p {
     font-size: 35px;
   }
   .about-pictures {
-    height: 80%;
+    height: 50%;
     display: block;
     margin: 0 auto;
   }
@@ -141,5 +141,7 @@ p {
 @media (min-width: 800px) {
   .about {
     display: flex;
+    justify-content: space-between;
+    margin: auto;
   }
 }
