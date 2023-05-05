@@ -57,6 +57,9 @@ h2 {
 .project-link:hover {
   background-color: #d2f5f1;
 }
+.cvInfo {
+  text-align: center;
+}
 
 .about-page {
   background-color: #ffffff;
